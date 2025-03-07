@@ -44,7 +44,7 @@ This is a simple React-based Todo List application that allows users to add, sea
 ## Usage
 1. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 2. Open your browser and go to `http://localhost:3000`.
 3. Add, search, and delete tasks as needed.
